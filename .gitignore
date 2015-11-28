@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+monenv2
+monenv
+db.sqlite3
+.DS_Store
